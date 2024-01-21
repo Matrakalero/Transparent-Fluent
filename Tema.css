@@ -23,6 +23,11 @@ body {
   background-color: transparent;
 }
 
+.app_de4237,
+.bg__12180 {
+  background-color: transparent;
+}
+
 .theme-dark .wrapper_f46140 {
   background-color: transparent;
   color: hsl(var(--fluent-accent-hue-sat), calc(var(--fluent-accent-lightness) + 25%));
